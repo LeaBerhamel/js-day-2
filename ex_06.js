@@ -3,4 +3,5 @@ if (bananasCount === 0) {
 } else if (bananasCount > 0) {
 	displayThisText("Yummy !")
 } else {
-	displayThisText("Do I owe you bananas?") }
+	displayThisText("Do I owe you bananas?") 
+}
